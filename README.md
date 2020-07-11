@@ -8,6 +8,7 @@ Discord bot ideas (butler bot):
 1.3 basic interaction commands
 1.4 help function q&a
 1.5 GIF's of Butlers/Food and Drink
+1.6 create two gender's of butler
 
 
 

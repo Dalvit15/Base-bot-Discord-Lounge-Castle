@@ -1,6 +1,6 @@
 # Base-bot-Discord-Lounge-Castle
 
-Discord bot ideas: 
+Discord bot ideas (butler bot): 
 
 1. Functionality 
 1.1 flirting with users

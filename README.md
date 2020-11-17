@@ -1,4 +1,4 @@
-# Base-bot-Discord-Lounge-Castle
+# Base-bot-Discord-Gentlemen's-Lounge
 
 Discord bot ideas (butler bot): 
 
